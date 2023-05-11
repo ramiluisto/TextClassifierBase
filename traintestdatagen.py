@@ -21,6 +21,8 @@ def main():
     print(full_df.shape)
     print(full_df.label.value_counts())
 
+    print(full_df.head())
+
     train_df, test_df = train_test_split(
         full_df, test_size=0.2, random_state=42, stratify=full_df["label"]
     )
@@ -28,6 +30,7 @@ def main():
     full_df.to_json(os.path.join(TARGET_DATA_FOLDER, "full_data.json"))
     train_df.to_json(os.path.join(TARGET_DATA_FOLDER, "train.json"))
     test_df.to_json(os.path.join(TARGET_DATA_FOLDER, "test.json"))
+
 
 
 def extract_data_from_file(filename):
@@ -55,7 +58,9 @@ def extract_data_from_file(filename):
             previous_line = ''
 
     if previous_line != '':
-        merged_lines.append(previous_line)        
+        merged_lines.append(previous_line)       
+
+    merged_lines = [text.strip() for text in merged_lines] 
 
     print(f"Found {len(merged_lines):6} lines from {filename}.")
     return merged_lines    
