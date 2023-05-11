@@ -12,6 +12,7 @@ def main():
         confdata = json.load(fp)
 
     for idx, datum in enumerate(confdata):
+        name = datum['name']
         url = datum["url"]
         text = get_text_from_url(url)
 
@@ -19,7 +20,7 @@ def main():
         linecount = len(lines)
         print(f"Retrieved {linecount} lines of text.")
 
-        save_filepath = os.path.join(TARGET_DATA_FOLDER, f"{idx:03d}.txt")
+        save_filepath = os.path.join(TARGET_DATA_FOLDER, f"{name}.txt")
         with open(save_filepath, "w") as fp:
             fp.write(text)
 

@@ -1,0 +1,69 @@
+
+
+  „Hello holyones“
+
+
+    _text unchanged_
+
+
+  det hovmodige menneskehjerte.
+
+
+    _text reads “menneske.hjerte” at line break_
+
+
+  Samfundets formand var ankommet aftenen i forveien
+
+
+    _text reads “ankommet,”_
+
+
+  før det blir forsent
+
+
+    _text unchanged_
+
+
+
+
+
+
+
+
+Quotation Marks:
+
+
+
+
+
+  The _form_ of quotation marks (single ’ or double ”, high “ or low „)
+
+
+  is as in the original. Usage was adjusted in cases of ambiguity or
+
+
+  clear error.
+
+
+
+
+
+  When a single word in quotation marks comes at the beginning or end
+
+
+  of a character’s speech, the second (“outer”) quotation mark is almost
+
+
+  always missing. Long (multi-paragraph) speeches may or may not have
+
+
+  quotation marks at the beginning of each paragraph.
+
+
+
+
+
+quotation marks _added_ by transcriber, shown here in braces:
+
+
+

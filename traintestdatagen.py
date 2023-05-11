@@ -64,7 +64,7 @@ def create_full_dataset(classes):
     texts = []
     labels = []
     for name, text_data in classes.items():
-        label = int(os.path.splitext(name)[0])
+        label = os.path.splitext(name)[0]
         for text in text_data:
             texts.append(text)
             labels.append(label)

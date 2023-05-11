@@ -1,6 +1,7 @@
 [
     {
         "url": "https://www.gutenberg.org/files/59635/59635-0.txt",
+        "name": "BrochSeip-Literaturhistorie",
         "metadata": {
             "Title": "Norsk literaturhistorie For gymnasiet, lærerskoler og høiere folkeskoler",
             "Author": "Chr[istian Fredrik] Broch and Martin Seip",
@@ -9,6 +10,7 @@
     },
     {
         "url": "https://www.gutenberg.org/cache/epub/16665/pg16665.txt",
+        "name": "Ibsen-Catilina",
         "metadata": {
             "Title": "Catilina",
             "Author": "Henrik Ibsen",
@@ -17,6 +19,7 @@
     },
     {
         "url": "https://www.gutenberg.org/files/34062/34062-0.txt",
+        "name": "HarperEtAl-Luftseilerens",
         "metadata": {
             "Title": "Luftseilerens Skat",
             "Author": "Claude Grahame-White Harry Harper",
@@ -25,6 +28,7 @@
     },
     {
         "url": "https://www.gutenberg.org/cache/epub/15748/pg15748.txt",
+        "name": "Ibsen-KaerlighedensKomedie",
         "metadata": {
             "Title": "Kærlighedens Komedie",
             "Author": "Henrik Ibsen",
@@ -33,6 +37,7 @@
     },
     {
         "url": "https://www.gutenberg.org/files/20550/20550-0.txt",
+        "name": "Nordbert-Presten",
         "metadata": {
             "Title": "Presten som ikke kunde brukes",
             "Author": "Carl Edin Nordberg",

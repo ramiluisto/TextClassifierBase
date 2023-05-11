@@ -1,0 +1,78 @@
+
+
+  Gaa ind til din Herres glæde
+
+
+    _text reads “Gak ind til min Herres glæde”_
+
+
+  den deiligste hvite sne
+
+
+    _text reads “deligste”_
+
+
+  nelikker
+
+
+    _spelling consistent for this text_
+
+
+  en trist juleaften uten mor
+
+
+    _text reads “stuleaften”_
+
+
+  fremtrædende øienbryn
+
+
+    _text reads “fremrtædende”_
+
+
+  Men saa en vakker dag
+
+
+    _text reads “vaker”_
+
+
+  Prof. G. R. Vowles says in his forword:
+
+
+    _text unchanged_
+
+
+  Mr. Nordberg’s thesis helps to make clear
+
+
+    _text reads “help”_
+
+
+  ever fresh and gripping romances
+
+
+    _text reads “griping”_
+
+
+
+
+
+Punctuation and Spacing:
+
+
+
+
+
+  de unge prestefolk, pastor / og Mrs. Johnson
+
+
+    _invisible period_
+
+
+  „Naar Jesus kommer ind i / huset“ og mens
+
+
+    _text spaced as “... huset “og...”_
+
+
+  blandet sig op i bekjendtgjørelserne.
