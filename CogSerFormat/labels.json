@@ -1,0 +1,6349 @@
+{
+  "projectFileVersion": "2022-05-01",
+  "stringIndexType": "Utf16CodeUnit",
+  "metadata": {
+    "projectName": "WebOfScience",
+    "storageInputContainerName": "example-data",
+    "projectKind": "CustomSingleLabelClassification",
+    "description": "Trying out single label text classification",
+    "language": "en",
+    "multilingual": false,
+    "settings": {}
+  },
+  "assets": {
+    "projectKind": "CustomSingleLabelClassification",
+    "classes": [
+      {
+        "category": "BrochSeip-Literaturhistorie"
+      },
+      {
+        "category": "Nordbert-Presten"
+      },
+      {
+        "category": "HarperEtAl-Luftseilerens"
+      },
+      {
+        "category": "Ibsen-KaerlighedensKomedie"
+      },
+      {
+        "category": "Ibsen-Catilina"
+      }
+    ],
+    "documents": [
+      {
+        "location": "435.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1127.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "750.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "757.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "189.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "628.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "400.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "623.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "980.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "862.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1071.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "319.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "457.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "831.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "185.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1109.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "316.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "380.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "38.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "471.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "894.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "271.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "538.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1027.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "444.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "12.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "341.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "96.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "343.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "848.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "195.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "645.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "440.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "406.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "617.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1097.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "459.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "849.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "587.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "555.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "175.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1115.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "164.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "61.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "886.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "851.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "290.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "451.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "518.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "845.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "908.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "740.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "806.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1105.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "625.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "182.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1124.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "421.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "833.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "911.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "648.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "779.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "214.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "163.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "272.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "709.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "804.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "597.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "799.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "242.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "866.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "282.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "148.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "489.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "984.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1102.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1092.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1108.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1061.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "536.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "609.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "926.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "63.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "464.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "235.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "580.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "903.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "782.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "734.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1020.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "377.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "275.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "44.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "853.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "441.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "958.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "900.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "155.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "152.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "828.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "699.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "124.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "685.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "396.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "71.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "401.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "585.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "453.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "959.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "317.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "614.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "582.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "72.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "540.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "303.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1034.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1007.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "820.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "105.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "244.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "99.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "411.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "694.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "705.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "760.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "731.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "70.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1075.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "674.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1095.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1091.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "496.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "30.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "294.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "855.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "966.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "967.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "349.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "300.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "747.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "123.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "159.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "813.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "468.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "662.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "351.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "890.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "570.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1114.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "361.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "717.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "485.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "544.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "289.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "338.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "404.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1106.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "209.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1084.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "106.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "944.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1051.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "783.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "534.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "74.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "786.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "635.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "867.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "524.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "633.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "40.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1036.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "586.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "258.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "187.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "135.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "16.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "112.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "89.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "744.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "692.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "923.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "265.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1080.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "514.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "284.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "643.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "802.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "391.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "834.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "19.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "28.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "700.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "891.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "562.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "819.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "299.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "504.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "733.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "312.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "498.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "795.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "970.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "704.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "305.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "627.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1050.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "861.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "842.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1093.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "790.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "111.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "381.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "102.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "322.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "219.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "15.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "676.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "925.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "515.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "304.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "138.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "986.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "37.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "517.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "510.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "955.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "446.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "143.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "543.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "805.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "670.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "671.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1094.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "126.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "439.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "25.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "472.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "575.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "204.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "983.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "332.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "678.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "55.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "346.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "394.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "194.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "6.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "10.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "981.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1121.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "90.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "117.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "878.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "530.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "31.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "448.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "39.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "602.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "201.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "593.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "650.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1070.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "375.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "62.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "93.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "762.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1031.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "638.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "466.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "60.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1038.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "231.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "295.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "257.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "999.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "474.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "188.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "912.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "239.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "872.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "45.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "933.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "81.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "702.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1016.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "810.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "119.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "965.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "248.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "314.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "142.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "181.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "935.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "652.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "356.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "64.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "745.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "203.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "836.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "374.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "901.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "651.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "892.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "532.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "548.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "771.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1003.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "492.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "989.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "131.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "897.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "737.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "883.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "127.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "134.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "721.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "193.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "599.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1065.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "809.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "994.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "712.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "591.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1074.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "649.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "442.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "982.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "160.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "940.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1064.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1052.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1010.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "724.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "232.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "286.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "137.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "493.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "409.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "552.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1023.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "850.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "957.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "456.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "403.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "579.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1012.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "639.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "297.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "133.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "990.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "684.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "508.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "416.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "893.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "710.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "372.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "318.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "846.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "484.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "907.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "397.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "569.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "884.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1123.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "42.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "150.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "696.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "551.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "843.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "229.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "788.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "266.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "33.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "24.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1069.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "679.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "67.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1008.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1039.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "429.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "606.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "739.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "212.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "387.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "916.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "379.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "85.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "233.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "298.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "154.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "687.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "578.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "683.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "576.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "888.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "927.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "882.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "465.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "274.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "479.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "355.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1002.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "629.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "238.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "525.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "8.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "337.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "313.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "521.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "962.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "499.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "707.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "276.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "561.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "17.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "262.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "183.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "988.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "542.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "823.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "475.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "565.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "876.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "607.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "703.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "978.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "50.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "646.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1066.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "837.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "708.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "522.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "251.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "943.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "347.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "520.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "113.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "669.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "234.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "254.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1125.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1005.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "41.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "217.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "860.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "839.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "256.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "79.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "250.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "263.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "830.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "956.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "598.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "176.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "482.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "3.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "604.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "764.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "781.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "46.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "144.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "840.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "688.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "969.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "951.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "873.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "765.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "315.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "27.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "691.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "245.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "752.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1120.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "423.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "359.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "87.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "693.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "895.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "292.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "854.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "88.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "595.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "539.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "418.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "865.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "659.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "443.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "972.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "56.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "230.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "75.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "817.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1028.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "801.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "7.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "682.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "741.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "226.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "630.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "452.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "385.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "269.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1112.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1040.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "43.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "658.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "613.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "507.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "486.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "947.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "147.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "564.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "273.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "642.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "461.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1116.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "874.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "701.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "369.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "596.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "546.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "568.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "311.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1086.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "732.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "247.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "875.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "827.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1042.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1082.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "527.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "405.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "822.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "723.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "738.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "426.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "616.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "977.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "968.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "344.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1119.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "366.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "973.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "726.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "663.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "170.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "971.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1107.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "870.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "424.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "363.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "116.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "23.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "653.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1111.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "774.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "373.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1055.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "410.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "858.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "807.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "417.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "335.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "95.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1014.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "698.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "818.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "109.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1041.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "960.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "654.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "869.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "57.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "808.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "100.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "667.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "506.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "216.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "13.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1017.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "450.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "321.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "415.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "626.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "325.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "780.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "661.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "932.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "909.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "323.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1004.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "637.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1035.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "675.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "798.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1058.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "184.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "501.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "594.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "393.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "549.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "165.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "838.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "680.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "58.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "641.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "339.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "941.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1037.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "157.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "803.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "697.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "301.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "749.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "365.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "47.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1043.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "327.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "766.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "35.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "634.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1118.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "260.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1067.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "445.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "713.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "277.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "880.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1026.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "342.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "237.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1110.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "844.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "483.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "192.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1011.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1029.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "110.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "213.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "255.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "92.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "516.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "621.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "358.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1081.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "826.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "200.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "573.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "729.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "792.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "742.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "526.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1087.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "778.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1096.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "603.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "386.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "398.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "367.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "769.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "14.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1000.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "223.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "437.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "145.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "205.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1072.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "772.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "128.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "998.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "402.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "553.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1076.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "146.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "722.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "413.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "66.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "949.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "65.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "987.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "730.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "776.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "490.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "560.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "215.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "53.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "166.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "196.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "997.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "78.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "21.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "963.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "222.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "608.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "243.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "473.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "191.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "877.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "264.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "535.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "487.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1100.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "86.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "296.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1089.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "898.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1045.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "174.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "948.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "246.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "470.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "130.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "735.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "455.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "436.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "938.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "748.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "928.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "236.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "399.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "571.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "357.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "141.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "107.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "329.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "647.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "18.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "345.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "953.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "824.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "600.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "149.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "350.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "665.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "278.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "261.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "835.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "673.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "228.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "695.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "577.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1054.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "797.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "611.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "829.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "291.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "657.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1098.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "751.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "716.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "29.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "287.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "348.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "129.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "588.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "689.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "161.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "615.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1103.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1013.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "211.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "919.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "800.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "879.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "136.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "151.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "122.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "430.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "328.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "991.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1068.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "118.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "9.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "995.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "83.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "420.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "202.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "550.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "494.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "815.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "640.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "881.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "528.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1126.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "352.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "864.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "746.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "186.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1015.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "1063.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "500.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "681.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "364.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "920.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "620.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "11.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "503.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "340.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "49.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "612.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "121.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "198.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "179.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "857.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "302.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "156.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1099.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "108.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "992.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "390.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "408.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "728.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "178.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "180.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "686.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "910.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "419.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1090.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "619.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "488.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "915.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "566.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "832.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "283.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "330.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "622.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1021.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "754.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "954.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "718.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "554.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1088.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "922.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "755.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "59.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "125.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "666.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "961.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "460.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "227.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "719.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "353.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "1009.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "84.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "469.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "334.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "241.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "208.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "918.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "531.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "433.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "259.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "656.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "1073.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "454.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "631.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "114.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "711.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "952.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "868.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "899.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "480.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "979.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1032.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "481.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "51.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "768.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "252.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "34.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1030.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "583.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "368.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "458.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "934.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "384.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "267.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "497.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "950.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "77.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "841.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "847.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "1117.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "197.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "996.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "431.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "758.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "26.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "816.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "924.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "69.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-Catilina"
+        }
+      },
+      {
+        "location": "1025.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Nordbert-Presten"
+        }
+      },
+      {
+        "location": "529.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "777.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "513.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "541.txt",
+        "language": "en-us",
+        "class": {
+          "category": "Ibsen-KaerlighedensKomedie"
+        }
+      },
+      {
+        "location": "281.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "407.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "902.txt",
+        "language": "en-us",
+        "class": {
+          "category": "HarperEtAl-Luftseilerens"
+        }
+      },
+      {
+        "location": "220.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      },
+      {
+        "location": "158.txt",
+        "language": "en-us",
+        "class": {
+          "category": "BrochSeip-Literaturhistorie"
+        }
+      }
+    ]
+  }
+}

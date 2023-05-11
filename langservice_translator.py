@@ -61,5 +61,5 @@ for i, row in df.iterrows():
     })
 
 # Save the JSON to a file
-with open('CorgSerFormat/labels.json', 'w') as f:
+with open('CogSerFormat/labels.json', 'w') as f:
     json.dump(data, f, indent=2)
